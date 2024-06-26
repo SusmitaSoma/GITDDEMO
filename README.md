@@ -1,3 +1,3 @@
 # GITDDEMO
-Author- Sush soma \n
+Author- Sush soma 
 Hi sushmita how are you
